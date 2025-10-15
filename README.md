@@ -439,5 +439,6 @@ Este é um projeto educacional demonstrando integração de LangChain com bases 
 ---
 
 **🥗 Consultor de Alimentos - Nutrição Inteligente com IA** 🤖# mcp-alimentos
-#   m c p - a l i m e n t o s  
+#   m c p - a l i m e n t o s 
+ 
  
